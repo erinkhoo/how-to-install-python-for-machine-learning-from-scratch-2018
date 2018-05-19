@@ -47,8 +47,9 @@ brew doctor
 <h4>Install Python 3</h4>
 https://docs.python.org/3/
 Command:
+
 ```
-brew install python3"
+brew install python3
 ```
 
 pip (Python package manager) comes with Python3, to use you'll need to use "pip3"
@@ -56,6 +57,7 @@ pip (Python package manager) comes with Python3, to use you'll need to use "pip3
 <h4>Install NumPy for the craic</h4>
 http://www.numpy.org/
 Command:
+
 ```
 pip3 install numpy
 ```
