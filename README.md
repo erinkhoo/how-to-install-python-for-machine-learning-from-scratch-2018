@@ -5,11 +5,10 @@ Holla at your boy!
 
 <h2>Steps</h2>
 
-<h4>Open Terminal</h4>
-https://en.wikipedia.org/wiki/Terminal_(macOS)
+<h4>[Open Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))</h4>
 
-</h4>Install Homebrew</h4>
-https://brew.sh/
+</h4>[Install Homebrew](https://brew.sh/)</h4>
+
 Command:
 
 ```
