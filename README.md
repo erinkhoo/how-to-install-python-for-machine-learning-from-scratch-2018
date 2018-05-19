@@ -29,8 +29,9 @@ export PATH=/usr/local/bin:$PATH
 - Exit by holding CONTROL AND "x"
 - Once back in Terminal
 ```
-source ~/.bash_profile" to complete bash_profile move
+source ~/.bash_profile
 ```
+to complete the bash_profile move
 
 #Coding is Baller
 
@@ -58,4 +59,5 @@ Command:
 ```
 pip3 install numpy
 ```
-#Such Hacker
+
+:shipit:
