@@ -46,10 +46,12 @@ brew doctor
 ```
 
 > Your system is ready to brew.
-(you might get a warning, in which case you need to
+
+*you might get a warning, in which case you need to*
+
 Command:
 ```
-brew update")
+brew update
 ```
 
 ## [Install Python 3](https://docs.python.org/3/)
