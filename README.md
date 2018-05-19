@@ -3,12 +3,12 @@ Are you reading super nerdy but missing step install instructions how-to's onlin
 
 Holla at your boy!
 
-<h5>Steps<h4>
+<h2>Steps</h2>
 
-Open Terminal
+<h4>Open Terminal</h4>
 https://en.wikipedia.org/wiki/Terminal_(macOS)
 
-Install Homebrew
+</h4>Install Homebrew</h4>
 https://brew.sh/
 Command: "/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 "
@@ -27,7 +27,14 @@ Command: "brew doctor"
 #Your system is ready to brew.
 (you might get a warning, in which case you need to run "brew update"
 
-===
+<h4>Install Python 3</h4>
+https://docs.python.org/3/
+Command: "brew install python3"
 
-Install pip (Python package manager)
-https://docs.python.org/3/installing/
+pip (Python package manager) comes with Python3, to use you'll need to use "pip3"
+
+<h4>Install NumPy for the craic</h4>
+http://www.numpy.org/
+Command: pip3 install numpy
+
+#Such Hacker
