@@ -3,11 +3,11 @@ Are you reading super nerdy but missing step install instructions how-to's onlin
 
 Holla at your boy!
 
-<h2>Steps</h2>
+# Steps
 
-<h4>[Open Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))</h4>
+## [Open Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))
 
-</h4>[Install Homebrew](https://brew.sh/)</h4>
+## [Install Homebrew](https://brew.sh/)
 
 Command:
 
@@ -32,7 +32,7 @@ source ~/.bash_profile
 ```
 to complete the bash_profile move
 
-#Coding is Baller
+> Coding is Baller
 
 Check Homebrew is ready
 Command:
@@ -40,10 +40,10 @@ Command:
 brew doctor
 ```
 
-#Your system is ready to brew.
+> Your system is ready to brew.
 (you might get a warning, in which case you need to run "brew update")
 
-<h4>Install Python 3</h4>
+## Install Python 3
 https://docs.python.org/3/
 Command:
 
@@ -53,7 +53,7 @@ brew install python3
 
 pip (Python package manager) comes with Python3, to use you'll need to use "pip3"
 
-<h4>Install NumPy for the craic</h4>
+## Install NumPy for the craic
 http://www.numpy.org/
 Command:
 
@@ -61,4 +61,4 @@ Command:
 pip3 install numpy
 ```
 
-:shipit:
+# :shipit:
