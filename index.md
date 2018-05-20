@@ -69,12 +69,14 @@ pip3 install numpy
 ```
 
 ## [Install SciPy for the love](https://www.scipy.org/)
+Command:
 
 ```
 pip3 install scipy
 ```
 
 ## [Install Scikit-learn for the Wizard Saraj](http://scikit-learn.org/stable/install.html)
+Command:
 
 ```
 pip3 install -U scikit-learn
